@@ -1,0 +1,33 @@
+.footerMain{
+    background-color: #FF8756;
+}
+.footerlogo{
+    width: 100%;
+    display: block;
+}
+
+.footerlogo > img {
+    width: 10%;
+    
+}
+
+.footerlogo> h1{
+    color: #FCF5EB;
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+}
+.logo> p,a{
+    color: #FCF5EB ;
+}
+.social {
+    display: flex;
+    justify-content: center;
+}
+.social >a {
+    padding: 2%;
+    color: #FF8756 !important;
+
+}
+
